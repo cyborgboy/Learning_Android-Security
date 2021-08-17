@@ -13,6 +13,8 @@ https://www.ragingrock.com/AndroidAppRE/conclusion.html
 
 http://www.jssec.org/dl/android_securecoding_en.pdf
 
+https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard
+
 
 ## Github Links:
 
